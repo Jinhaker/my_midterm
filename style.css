@@ -1,0 +1,52 @@
+#controls {
+    position: fixed;
+    left:0px;
+    right:0px;
+    top:720px;
+    bottom:0px;
+    margin:auto;
+    width:100px;
+    transition: 1.0s;
+}
+
+#Menu {
+    width:100%;
+}
+
+#file {
+    width:100%;
+}
+
+#disptitle {
+    width:100%;
+}
+
+#dispdesc {
+    width:100%;
+}
+
+
+#display {
+    position: absolute;
+    width:100vw;
+}
+
+#background {
+    position:relative;
+    width:100%;
+    height:300px;
+}
+
+#title {
+    position:absolute;
+    left:10%;
+    top:10%;
+    font-size: 150%;
+    border-bottom: solid gray;
+}
+
+#desc {
+    position:absolute;
+    left:10%;
+    top:20%;
+}
